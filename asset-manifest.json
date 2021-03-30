@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Birthday-App/static/css/main.b4520df6.chunk.css",
+    "main.js": "/Birthday-App/static/js/main.cd5acbe8.chunk.js",
+    "main.js.map": "/Birthday-App/static/js/main.cd5acbe8.chunk.js.map",
+    "runtime-main.js": "/Birthday-App/static/js/runtime-main.aa2a0844.js",
+    "runtime-main.js.map": "/Birthday-App/static/js/runtime-main.aa2a0844.js.map",
+    "static/js/2.b9bd3890.chunk.js": "/Birthday-App/static/js/2.b9bd3890.chunk.js",
+    "static/js/2.b9bd3890.chunk.js.map": "/Birthday-App/static/js/2.b9bd3890.chunk.js.map",
+    "index.html": "/Birthday-App/index.html",
+    "static/css/main.b4520df6.chunk.css.map": "/Birthday-App/static/css/main.b4520df6.chunk.css.map",
+    "static/js/2.b9bd3890.chunk.js.LICENSE.txt": "/Birthday-App/static/js/2.b9bd3890.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa2a0844.js",
+    "static/js/2.b9bd3890.chunk.js",
+    "static/css/main.b4520df6.chunk.css",
+    "static/js/main.cd5acbe8.chunk.js"
+  ]
+}
